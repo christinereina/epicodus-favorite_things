@@ -1,8 +1,8 @@
-# [Favorite Things](https://christinereina.github.io/amusement-park/)
-git i
-#### Epicodus Week Three |Introduction to Programming Arrays and Looping Practice: JavaScript Arrays, 03.30.2020
+# [Favorite Things](https://christinereina.github.io/epicodus-favorite_things/)
 
-#### By _**Christine Augustine**_
+#### Epicodus Week Three | Introduction to Programming Arrays and Looping Practice: JavaScript Arrays, 03.30.2020
+
+#### By _**Christine Augustine & Chisato Murakami**_
 
 
 ## Description
@@ -18,7 +18,7 @@ Clone the project's github repository from your computer's Terminal (make sure y
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view the webpage by clicking [here]([link goes here])
+Alternatively, you can also view the webpage by clicking [here](https://christinereina.github.io/epicodus-favorite_things/git)
 
 Lastly, enjoy our site!
 
@@ -35,6 +35,9 @@ Feel free to say hello! Additionally, if you have any questions, suggestions and
 Christine Augustine's email:
 _blacchoy@gmail.com_
 
+Chisato Murakami's GitHub:
+_https://github.com/cheemurakami_
+
 ## Technologies Used
 
 * _Markdown_
@@ -48,4 +51,4 @@ _blacchoy@gmail.com_
 
 **The MIT license**
 
-Copyright (c) 2020 **Christine Augustine**
+Copyright (c) 2020 **Chisato Murakami & Christine Augustine**
